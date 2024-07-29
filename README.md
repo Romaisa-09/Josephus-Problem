@@ -21,7 +21,7 @@
   <h2>📂Getting Started</h2>
     <ol>
         <li><strong>Clone the Repository:</strong> 
-            <pre><code>git clone <a href="https://github.com/yourusername/josephus-problem" target="_blank">https://github.com/yourusername/josephus-simulator</a></code></pre>
+            <pre><code>git clone <a href="https://github.com/yourusername/josephus-problem" target="_blank">https://github.com/yourusername/josephus-problem</a></code></pre>
         </li>
         <li><strong>Build and Run:</strong> Follow the build instructions provided in the repository.</li>
     </ol>
